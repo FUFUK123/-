@@ -113,6 +113,8 @@
   * [Рынок](osnovnye-sooruzheniya/antichnost/rynok.md)
   * [Амфитеатр](osnovnye-sooruzheniya/antichnost/amfiteatr.md)
   * [Торговый корабль](osnovnye-sooruzheniya/antichnost/torgovyi-korabl.md)
+  * [Конюшня](osnovnye-sooruzheniya/antichnost/konyushnya.md)
+  * [Цирк](osnovnye-sooruzheniya/antichnost/cirk.md)
 * [Средние века](osnovnye-sooruzheniya/srednie-veka/README.md)
   * [Мировой рынок](osnovnye-sooruzheniya/srednie-veka/mirovoi-rynok.md)
   * [Университет](osnovnye-sooruzheniya/srednie-veka/universitet.md)
