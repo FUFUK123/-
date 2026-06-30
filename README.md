@@ -1,6 +1,6 @@
 ---
 icon: square-web-awesome
-cover: .gitbook/assets/image (54).png
+cover: .gitbook/assets/image (53).png
 coverY: 0
 coverHeight: 571
 layout:
