@@ -6,11 +6,11 @@
 
 В Minecraft пропишите команду `/link`, вам отправится ссылка на бота и команда, которую нужно прописать боту. Команда выглядит примерно так: `/link <code>`.<br>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 После того как вы пропишете команду боту, вы получите сообщение:
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 После этого вам будет доступен полный функционал бота.
 
@@ -18,11 +18,11 @@
 
 Пропишите команду `/start`, чтобы увидеть главное меню:<br>
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Если ваш аккаунт не привязан вы не увидите меню:
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 В меню вы можете найти команды, которые есть в игре (не все).
 

@@ -25,7 +25,7 @@ icon: sheep
 Модификации и эффекты:
 
 * <mark style="color:$success;">Пища (на город): +50</mark>
-* <mark style="color:$success;">Пища (на город): +75</mark> за ![](<../../.gitbook/assets/image (7).png>) <img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> ![](<../../.gitbook/assets/image (8).png>)
+* <mark style="color:$success;">Пища (на город): +75</mark> за ![](<../../.gitbook/assets/image (7) (1).png>) <img src="../../.gitbook/assets/image (6) (1).png" alt="" data-size="line"> ![](<../../.gitbook/assets/image (8) (1).png>)
 
 ***
 
