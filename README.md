@@ -1,7 +1,6 @@
 ---
 icon: square-web-awesome
-cover: >-
-  https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F8l2PmkNudiLTA68YEZeP%2Fuploads%2FHgwB4u9reMfI8jaEv0Lp%2Fimage.png?alt=media&token=cc13158b-fab7-4aca-a106-432089aee24b
+cover: .gitbook/assets/image (54).png
 coverY: 0
 coverHeight: 571
 layout:
