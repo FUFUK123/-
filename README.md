@@ -1,13 +1,34 @@
 ---
 icon: square-web-awesome
-cover: .gitbook/assets/sunset2.png
-coverY: -3.9625307421174867
-coverHeight: 429
+cover: .gitbook/assets/image.webp
+coverY: -26.933333333333323
+coverHeight: 571
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # О сервере
 
-Забудьте о привычном выживании. Возведите свою собственную цивилизацию, сокрушите врагов и одержите неоспоримую победу.&#x20;
+Забудьте о привычном выживании. Возведите свою собственную цивилизацию, сокрушите врагов и одержите неоспоримую победу.
 
 {% columns fullWidth="false" %}
 {% column %}
@@ -23,7 +44,7 @@ coverHeight: 429
 {% endcolumn %}
 {% endcolumns %}
 
-<h3 align="center"><mark style="color:$warning;"><strong>Развивайся.</strong></mark><strong> </strong><mark style="color:$success;"><strong>Властвуй.</strong></mark> <mark style="color:$danger;"><strong>Побеждай.</strong></mark></h3>
+<h3 align="center"><mark style="color:$warning;"><strong>Развивайся.</strong></mark> <mark style="color:$success;"><strong>Властвуй.</strong></mark> <mark style="color:$danger;"><strong>Побеждай.</strong></mark></h3>
 
 Однако ради достижения этих целей вам нужно уметь не только сражаться. Правильные тайминги, менеджмент ресурсов, умение зарабатывать валюту, планирование обороны и стратегия - ваши лучшие помощники. Данная Вики создана для того, чтобы помочь сориентироваться в этом потоке информации и сделать игровой процесс максимально понятным.
 
@@ -32,7 +53,7 @@ coverHeight: 429
 ### Чем отличается от Minecraft Vanilla?
 
 {% hint style="info" %}
-Для оптимизации игрового процесса были внесены определенные изменения.&#x20;
+Для оптимизации игрового процесса были внесены определенные изменения.
 {% endhint %}
 
 <h4 align="center">Отличия от Minecraft Vanilla</h4>
@@ -48,4 +69,3 @@ coverHeight: 429
 9. Приваты через /region claim <mark style="color:orange;">отключены</mark>. Однако приватить все равно можно. Основав цивилизацию, у вас появится доступ к командам привата <mark style="color:$warning;">**/t claim**</mark>. Таким образом, Вы сможете приватить по чанкам территорию вашего города. С дополнительным набором команд вы можете ознакомиться [тут](upravlenie-gorodom-i-civilizaciei/komandy.md).
 10. Вы <mark style="color:orange;">не можете</mark> телепортироваться к другим игрокам.
 11. Некоторые крафты предметов (например, воронка и поршень) <mark style="color:orange;">имеют</mark> совершенно другой рецепт. Подробнее можно посмотреть в <mark style="color:$warning;">**/res book**</mark>.
-
