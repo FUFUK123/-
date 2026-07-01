@@ -43,8 +43,6 @@
   * [Победа](upravlenie-gorodom-i-civilizaciei/diplomatiya/pobeda.md)
 * [Нации](upravlenie-gorodom-i-civilizaciei/nacii.md)
 * [Государственный строй](upravlenie-gorodom-i-civilizaciei/gosudarstvennyi-stroi.md)
-* [Древо улучшений](upravlenie-gorodom-i-civilizaciei/drevo-uluchshenii.md)
-* [Группы и права в городе](upravlenie-gorodom-i-civilizaciei/gruppy-i-prava-v-gorode.md)
 * [Команды](upravlenie-gorodom-i-civilizaciei/komandy.md)
 
 ## Военные сооружения
@@ -165,7 +163,3 @@
 ## ЮНИТЫ
 
 * [Поселенец](yunity/poselenec.md)
-* [Шпион](yunity/shpion.md)
-* [Пушки](yunity/pushki.md)
-* [Тележка с едой](yunity/telezhka-s-edoi.md)
-* [Сапоги путешественника](yunity/sapogi-puteshestvennika.md)
