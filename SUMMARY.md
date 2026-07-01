@@ -56,32 +56,26 @@
 * [Военный лагерь](voennye-sooruzheniya/voennyi-lager.md)
 * [Стена](voennye-sooruzheniya/stena.md)
 
-## Военные башни и корабли
+## Военные структуры
 
-* [Башни](voennye-bashni-i-korabli/bashni/README.md)
-  * [Башня разведчиков](voennye-bashni-i-korabli/bashni/bashnya-razvedchikov.md)
-  * [Башня лучников](voennye-bashni-i-korabli/bashni/bashnya-luchnikov.md)
-  * [Башня пушкарей](voennye-bashni-i-korabli/bashni/bashnya-pushkarei.md)
-  * [Башня Теслы](voennye-bashni-i-korabli/bashni/bashnya-tesly.md)
-* [Корабли](voennye-bashni-i-korabli/korabli/README.md)
-  * [Корабль разведчиков](voennye-bashni-i-korabli/korabli/korabl-razvedchikov.md)
-  * [Корабль лучников](voennye-bashni-i-korabli/korabli/korabl-luchnikov.md)
-  * [Корабль пушкарей](voennye-bashni-i-korabli/korabli/korabl-pushkarei.md)
+* [Башни](voennye-struktury/bashni/README.md)
+  * [Башня разведчиков](voennye-struktury/bashni/bashnya-razvedchikov.md)
+  * [Башня лучников](voennye-struktury/bashni/bashnya-luchnikov.md)
+  * [Башня пушкарей](voennye-struktury/bashni/bashnya-pushkarei.md)
+  * [Башня Теслы](voennye-struktury/bashni/bashnya-tesly.md)
+* [Здания](voennye-struktury/bashni-1/README.md)
+  * [Арсенал](voennye-struktury/bashni-1/bashnya-razvedchikov.md)
+  * [Трансформатор теслы](voennye-struktury/bashni-1/bashnya-luchnikov.md)
+  * [Ратуша](voennye-struktury/bashni-1/bashnya-pushkarei.md)
+  * [Капитолий](voennye-struktury/bashni-1/bashnya-tesly.md)
+* [Корабли](voennye-struktury/korabli/README.md)
+  * [Корабль разведчиков](voennye-struktury/korabli/korabl-razvedchikov.md)
+  * [Корабль лучников](voennye-struktury/korabli/korabl-luchnikov.md)
+  * [Корабль пушкарей](voennye-struktury/korabli/korabl-pushkarei.md)
+  * [Корабль теслы](voennye-struktury/korabli/korabl-pushkarei-1.md)
 
 ## Основные сооружения
 
-* [Особые сооружения](osnovnye-sooruzheniya/osobye-sooruzheniya/README.md)
-  * [Ферма](osnovnye-sooruzheniya/osobye-sooruzheniya/ferma.md)
-  * [Дробилка](osnovnye-sooruzheniya/osobye-sooruzheniya/drobilka.md)
-  * [Карьер](osnovnye-sooruzheniya/osobye-sooruzheniya/karer.md)
-  * [Коттедж](osnovnye-sooruzheniya/osobye-sooruzheniya/kottedzh.md)
-  * [Пастбище](osnovnye-sooruzheniya/osobye-sooruzheniya/pastbishe.md)
-  * [Рыбная ферма](osnovnye-sooruzheniya/osobye-sooruzheniya/rybnaya-ferma.md)
-  * [Шахта](osnovnye-sooruzheniya/osobye-sooruzheniya/shakhta.md)
-  * [Торговый корабль](osnovnye-sooruzheniya/osobye-sooruzheniya/torgovyi-korabl.md)
-  * [Торговый пост](osnovnye-sooruzheniya/osobye-sooruzheniya/torgovyi-post.md)
-  * [Торговая лодка](osnovnye-sooruzheniya/osobye-sooruzheniya/torgovaya-lodka.md)
-  * [Ферма шелкопрядов](osnovnye-sooruzheniya/osobye-sooruzheniya/ferma-shelkopryadov.md)
 * [Древний мир](osnovnye-sooruzheniya/drevnii-mir/README.md)
   * [Пастбище](osnovnye-sooruzheniya/drevnii-mir/bank.md)
   * [Казармы](osnovnye-sooruzheniya/drevnii-mir/baraki.md)
@@ -138,13 +132,6 @@
   * [Больница](osnovnye-sooruzheniya/industrialnaya-era/muzei-4.md)
   * [Лаборатория](osnovnye-sooruzheniya/industrialnaya-era/muzei-5.md)
   * [Стадион](osnovnye-sooruzheniya/industrialnaya-era/muzei-6.md)
-* [Современность](osnovnye-sooruzheniya/sovremennost/README.md)
-  * [Радиовышка](osnovnye-sooruzheniya/sovremennost/radiovyshka.md)
-  * [Больница](osnovnye-sooruzheniya/sovremennost/bolnica.md)
-* [Эпоха атома](osnovnye-sooruzheniya/epokha-atoma/README.md)
-  * [Лаборатория](osnovnye-sooruzheniya/epokha-atoma/laboratoriya.md)
-  * [Стадион](osnovnye-sooruzheniya/epokha-atoma/stadion.md)
-* [Информационная эра](osnovnye-sooruzheniya/informacionnaya-era.md)
 
 ***
 

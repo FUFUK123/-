@@ -20,7 +20,7 @@ icon: hammer
 
 #### Постройки <a href="#postroiki" id="postroiki"></a>
 
-[Шахты](../osnovnye-sooruzheniya/osobye-sooruzheniya/shakhta.md), [Верфь](../osnovnye-sooruzheniya/osobye-sooruzheniya/shakhta.md), [Торговый корабль](../osnovnye-sooruzheniya/osobye-sooruzheniya/torgovyi-korabl.md), [Кузница ](../osnovnye-sooruzheniya/antichnost/kuznica.md)генерируют молоточки
+[Шахты](/broken/pages/yje4Gc4Fy3ERiI0NVCMo), [Верфь](/broken/pages/yje4Gc4Fy3ERiI0NVCMo), [Торговый корабль](/broken/pages/xdmDaaS7C3YAj851scLN), [Кузница ](../osnovnye-sooruzheniya/antichnost/kuznica.md)генерируют молоточки
 
 ***
 
@@ -44,7 +44,7 @@ icon: hammer
 
 Молоточки города полностью используются за 1 час реального времени.
 
-> Например, у вас в городе 100 молотков, нужно построить здание, которое требует 1000 молотков. Это здание построиться за 10 часов (1000 / 100).&#x20;
+> Например, у вас в городе 100 молотков, нужно построить здание, которое требует 1000 молотков. Это здание построиться за 10 часов (1000 / 100).
 
 Молоточки добавляются в прогресс каждую секунду. Это можно увидеть, посмотрев на строительство зданий: блоки появляются равномерно и скорость их появления зависит от кол-ва ваших молоточков Вы можете строить только одно здание и одновременно с ним одно Чудо света.
 
