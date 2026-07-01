@@ -41,8 +41,7 @@
 * [Дипломатия](upravlenie-gorodom-i-civilizaciei/diplomatiya/README.md)
   * [Война](upravlenie-gorodom-i-civilizaciei/diplomatiya/voina.md)
   * [Победа](upravlenie-gorodom-i-civilizaciei/diplomatiya/pobeda.md)
-* [Нации](upravlenie-gorodom-i-civilizaciei/nacii.md)
-* [Государственный строй](upravlenie-gorodom-i-civilizaciei/gosudarstvennyi-stroi.md)
+* [Политические строи](upravlenie-gorodom-i-civilizaciei/gosudarstvennyi-stroi.md)
 * [Команды](upravlenie-gorodom-i-civilizaciei/komandy.md)
 
 ## Военные сооружения

@@ -2,9 +2,7 @@
 icon: mountain-city
 ---
 
-# Государственный строй
-
-## Политические строи <a href="#firstheading" id="firstheading"></a>
+# Политические строи
 
 ### Содержание <a href="#mw-toc-heading" id="mw-toc-heading"></a>
 
