@@ -19,7 +19,7 @@ _<mark style="color:orange;">Кузница</mark>_ — производстве
 
 Модификации и эффекты:
 
-* Несчастье: +2
+* <mark style="color:$danger;">Несчастье: +2</mark>
 * <mark style="color:orange;">Продукция за торговые ресурсы (на Город)</mark>: <mark style="color:orange;">+100 за</mark> ![](<../../.gitbook/assets/image (9) (1).png>)![](<../../.gitbook/assets/image (10) (1).png>)![](<../../.gitbook/assets/image (11).png>)![](<../../.gitbook/assets/image (12).png>)
 * <mark style="color:orange;">Продукция за торговые ресурсы (на Город)</mark>: <mark style="color:orange;">+175 за</mark> ![](<../../.gitbook/assets/image (13).png>)![](<../../.gitbook/assets/image (14).png>)
 
