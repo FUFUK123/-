@@ -25,4 +25,4 @@ icon: lighthouse
 
 * <mark style="color:$success;">Пища (на город)</mark>: +50![](<../../.gitbook/assets/image (5).png>) за  ![](<../../.gitbook/assets/image (3).png>)![](<../../.gitbook/assets/image (4).png>)![](<../../.gitbook/assets/image (6).png>)![](<../../.gitbook/assets/image (7).png>) &#x20;
 * <mark style="color:orange;">Продукция (на город):</mark> +50![](<../../.gitbook/assets/image (2).png>) за ![](<../../.gitbook/assets/image (3).png>)![](<../../.gitbook/assets/image (4).png>)![](<../../.gitbook/assets/image (6).png>)![](<../../.gitbook/assets/image (7).png>)![](<../../.gitbook/assets/image (8).png>)     &#x20;
-* <mark style="color:$success;">Пища (на город):</mark> +0.5![](<../../.gitbook/assets/image (1).png>) за каждый чанк океана (все типы)
+* <mark style="color:$success;">Пища (на город):</mark> +0.5![](<../../.gitbook/assets/image (1) (1).png>) за каждый чанк океана (все типы)
