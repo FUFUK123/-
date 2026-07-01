@@ -28,12 +28,12 @@ coverHeight: 383
 ### Особенности
 
 * Чудо света (можно построить только одно на весь мир)
-* Требуется институт: [Традиция](https://wiki.quasarium.net/index.php/%D0%A2%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D1%8F)
+* Требуется институт:[ Традиция](../osnovnye-kharakteristiki/obshestvennye-instituty/tradiciya.md)
 
 ### Модификации и эффекты
 
 * <mark style="color:$success;">Пища (на цивилизацию): +100%</mark>![](<../.gitbook/assets/image (171).png>)
-* Потребление [коттеджей](https://wiki.quasarium.net/index.php/%D0%9A%D0%BE%D1%82%D1%82%D0%B5%D0%B4%D0%B6): -20%
+* Потребление [коттеджей](../osnovnye-sooruzheniya/antichnost/bakaleya.md): -20%
 * Регенерация жителей: +1 в своей культуре
 
 ### Регенерация

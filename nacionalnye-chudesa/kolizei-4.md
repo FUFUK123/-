@@ -28,14 +28,14 @@ coverHeight: 383
 ### Особенности
 
 * Чудо света (можно построить только одно на весь мир)
-* Требуется институт: [Воля](https://wiki.quasarium.net/index.php/%D0%92%D0%BE%D0%BB%D1%8F)
+* [Требуется институт: Воля](../osnovnye-kharakteristiki/obshestvennye-instituty/volya.md)
 
 ### Модификации и эффекты
 
 * <mark style="color:orange;">Производство (на цивилизацию): +250</mark>![](<../.gitbook/assets/image (178).png>) на город
-* Скидка на [шахты](https://wiki.quasarium.net/index.php/%D0%A8%D0%B0%D1%85%D1%82%D0%B0) и [торговые посты](https://wiki.quasarium.net/index.php/%D0%A2%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BF%D0%BE%D1%81%D1%82): -25%![](<../.gitbook/assets/image (180).png>)![](<../.gitbook/assets/image (176).png>)
-* Потребление [Шахт](https://wiki.quasarium.net/index.php/%D0%A8%D0%B0%D1%85%D1%82%D0%B0) и [Лесопилок](https://wiki.quasarium.net/index.php/%D0%9B%D0%B5%D1%81%D0%BE%D0%BF%D0%B8%D0%BB%D0%BA%D0%B0): -50%
-* Скидка на [дороги](https://wiki.quasarium.net/index.php/%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B8): -40%![](<../.gitbook/assets/image (179).png>)![](<../.gitbook/assets/image (181).png>)
+* Скидка на [шахты](../osnovnye-sooruzheniya/drevnii-mir/shakhta.md) и [торговые посты](../osnovnye-sooruzheniya/antichnost/torgovyi-post.md): -25%![](<../.gitbook/assets/image (180).png>)![](<../.gitbook/assets/image (176).png>)
+* Потребление [Шахт](../osnovnye-sooruzheniya/drevnii-mir/shakhta.md) и [Лесопилок](../osnovnye-sooruzheniya/antichnost/lesopilka.md): -50%
+* Скидка на [дороги](../osnovnye-kharakteristiki/schaste-1.md): -40%![](<../.gitbook/assets/image (179).png>)![](<../.gitbook/assets/image (181).png>)
 
 ### Регенерация
 

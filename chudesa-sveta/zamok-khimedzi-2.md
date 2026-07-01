@@ -35,7 +35,7 @@ coverHeight: 428
 
 ### Модификации и эффекты
 
-* Бонусы от статусов [счастья](https://wiki.quasarium.net/index.php/%D0%A1%D1%87%D0%B0%D1%81%D1%82%D1%8C%D0%B5): +15%
+* Бонусы от статусов [счастья](../osnovnye-kharakteristiki/schaste.md): +15%
 * <mark style="color:$warning;">Счастье (на цивилизацию): +6</mark>![](<../.gitbook/assets/image (169).png>)
 * <mark style="color:pink;">Культура (на цивилизацию): +25</mark>![](<../.gitbook/assets/image (170).png>) за каждый [Коттедж](../osnovnye-sooruzheniya/antichnost/bakaleya.md) в городе
 

@@ -28,7 +28,7 @@ coverHeight: 383
 ### Особенности
 
 * Чудо света (можно построить только одно на весь мир)
-* Требуется институт: [Рационализм](https://wiki.quasarium.net/index.php/%D0%A0%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC)
+* [Требуется институт: Рационализм](../osnovnye-kharakteristiki/obshestvennye-instituty/racionalizm.md)
 
 ### Модификации и эффекты
 

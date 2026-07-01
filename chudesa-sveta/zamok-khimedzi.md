@@ -35,10 +35,10 @@ coverHeight: 428
 
 ### Модификации и эффекты
 
-* Стоимость роста населения: -10%
+* <mark style="color:$success;">Стоимость роста населения: -10</mark>%
 * <mark style="color:$success;">Прирост пищи: +10%</mark>![](<../.gitbook/assets/image (167).png>)
 * Дальний урон игроков: +1
-* Стоимость улучшений (монеты): -25%
+* <mark style="color:$warning;">Стоимость улучшений (монеты): -25%</mark>![](../.gitbook/assets/image.png)
 * <mark style="color:orange;">Стоимость улучшений (продукция): -25%</mark>![](<../.gitbook/assets/image (168).png>)
 
 ### Регенерация

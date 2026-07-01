@@ -36,7 +36,7 @@ coverHeight: 367
 
 ### Модификации и эффекты
 
-* Доход от [Коттеджей](https://wiki.quasarium.net/index.php/%D0%9A%D0%BE%D1%82%D1%82%D0%B5%D0%B4%D0%B6): +50%
+* Доход от [Коттеджей](../osnovnye-sooruzheniya/antichnost/bakaleya.md): +50%
 * <mark style="color:pink;">Культура: +15%</mark>![](<../.gitbook/assets/image (164).png>)
 * <mark style="color:pink;">+1 очко общественного института</mark>
 
