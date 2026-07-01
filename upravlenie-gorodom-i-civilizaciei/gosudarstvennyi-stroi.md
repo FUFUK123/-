@@ -8,22 +8,22 @@ icon: mountain-city
 
 ### Содержание <a href="#mw-toc-heading" id="mw-toc-heading"></a>
 
-* Общая информация
-* Переход в политический строй
-* Политические строи
+* [Общая информация](gosudarstvennyi-stroi.md#obshaya-informaciya)
+* [Переход в политический строй](gosudarstvennyi-stroi.md#perekhod-v-politicheskii-stroi)
+* [Политические строи](gosudarstvennyi-stroi.md#firstheading)
 * [Тирания](gosudarstvennyi-stroi.md#tiraniya)
-* Аристократия
-* Монархия
-* Теократия
-* Абсолютизм
-* Аристократическая республика
-* Феодальная монархия
-* Олигархия
-* Технократия
-* Коммунизм
-* Парламентская монархия
-* Демократическая республика
-* Клептократия
+* [Аристократия](gosudarstvennyi-stroi.md#aristokratiya)
+* [Монархия](gosudarstvennyi-stroi.md#monarkhiya)
+* [Теократия](gosudarstvennyi-stroi.md#teokratiya)
+* [Абсолютизм](gosudarstvennyi-stroi.md#absolyutizm)
+* [Аристократическая республика](gosudarstvennyi-stroi.md#aristokraticheskaya-respublika)
+* [Феодальная монархия](gosudarstvennyi-stroi.md#feodalnaya-monarkhiya)
+* [Олигархия](gosudarstvennyi-stroi.md#oligarkhiya)
+* [Технократия](gosudarstvennyi-stroi.md#tekhnokratiya)
+* [Коммунизм](gosudarstvennyi-stroi.md#kommunizm)
+* [Парламентская монархия](gosudarstvennyi-stroi.md#parlamentskaya-monarkhiya)
+* [Демократическая республика](gosudarstvennyi-stroi.md#demokraticheskaya-respublika)
+* [Клептократия](gosudarstvennyi-stroi.md#kleptokratiya)
 
 #### Общая информация
 
