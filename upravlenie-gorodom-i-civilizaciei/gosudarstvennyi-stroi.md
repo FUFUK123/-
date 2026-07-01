@@ -6,37 +6,33 @@ icon: mountain-city
 
 ## Политические строи <a href="#firstheading" id="firstheading"></a>
 
-[Перейти к навигации](https://wiki.quasarium.net/index.php/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%B8#mw-head)[Перейти к поиску](https://wiki.quasarium.net/index.php/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%B8#searchInput)
-
 ### Содержание <a href="#mw-toc-heading" id="mw-toc-heading"></a>
 
-* [1Общая информация](https://wiki.quasarium.net/index.php/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%B8#%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F)
-* [2Переход в политический строй](https://wiki.quasarium.net/index.php/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%B8#%D0%9F%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D1%80%D0%BE%D0%B9)
-* [3Политические строи](https://wiki.quasarium.net/index.php/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%B8#%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%B8)
-* [4Тирания](https://wiki.quasarium.net/index.php/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%B8#%D0%A2%D0%B8%D1%80%D0%B0%D0%BD%D0%B8%D1%8F)
-* [5Аристократия](https://wiki.quasarium.net/index.php/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%B8#%D0%90%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%8F)
-* [6Монархия](https://wiki.quasarium.net/index.php/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%B8#%D0%9C%D0%BE%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D1%8F)
-* [7Теократия](https://wiki.quasarium.net/index.php/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%B8#%D0%A2%D0%B5%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%8F)
-* [8Абсолютизм](https://wiki.quasarium.net/index.php/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%B8#%D0%90%D0%B1%D1%81%D0%BE%D0%BB%D1%8E%D1%82%D0%B8%D0%B7%D0%BC)
-* [9Аристократическая республика](https://wiki.quasarium.net/index.php/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%B8#%D0%90%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0)
-* [10Феодальная монархия](https://wiki.quasarium.net/index.php/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%B8#%D0%A4%D0%B5%D0%BE%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%BE%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D1%8F)
-* [11Олигархия](https://wiki.quasarium.net/index.php/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%B8#%D0%9E%D0%BB%D0%B8%D0%B3%D0%B0%D1%80%D1%85%D0%B8%D1%8F)
-* [12Технократия](https://wiki.quasarium.net/index.php/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%B8#%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%8F)
-* [13Коммунизм](https://wiki.quasarium.net/index.php/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%B8#%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%B7%D0%BC)
-* [14Парламентская монархия](https://wiki.quasarium.net/index.php/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%B8#%D0%9F%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%BE%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D1%8F)
-* [15Демократическая республика](https://wiki.quasarium.net/index.php/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%B8#%D0%94%D0%B5%D0%BC%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0)
-* [16Клептократия](https://wiki.quasarium.net/index.php/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%B8#%D0%9A%D0%BB%D0%B5%D0%BF%D1%82%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%8F)
-* [17Навигация по разделам](https://wiki.quasarium.net/index.php/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%B8#%D0%9D%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0%D0%BC)
+* Общая информация
+* Переход в политический строй
+* Политические строи
+* [Тирания](gosudarstvennyi-stroi.md#tiraniya)
+* Аристократия
+* Монархия
+* Теократия
+* Абсолютизм
+* Аристократическая республика
+* Феодальная монархия
+* Олигархия
+* Технократия
+* Коммунизм
+* Парламентская монархия
+* Демократическая республика
+* Клептократия
 
 #### Общая информация
 
 Политические строи - одна из основных механик CivCraft. Для выбора политического строя вам стоит воспользоваться командой /c gov. Политические строи дают баффы, которые можно поделить на 2 категории:
 
-*
-  * Баффы базовых стат
-  * Баффы от политик
+* Баффы базовых стат
+* Баффы от политик
 
-Для принятия политического строя и политики вам нужно накопить политические очки. Их можно получить улучшая [Капитолий](https://wiki.quasarium.net/index.php/%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%BE%D0%BB%D0%B8%D0%B9). Каждый политический строй включает в себя ряд политик, которые нужно принимать отдельно, но принять их можно, только если ваша Цивилизация находится в нужном политическом строю.
+Для принятия политического строя и политики вам нужно накопить политические очки. Их можно получить улучшая [Капитолий](../voennye-sooruzheniya/glavnye-zdaniya/bashnya-tesly.md). Каждый политический строй включает в себя ряд политик, которые нужно принимать отдельно, но принять их можно, только если ваша Цивилизация находится в нужном политическом строю.
 
 #### Переход в политический строй
 
