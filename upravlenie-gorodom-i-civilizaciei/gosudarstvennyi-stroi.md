@@ -10,7 +10,7 @@ icon: mountain-city
 
 * [Общая информация](gosudarstvennyi-stroi.md#obshaya-informaciya)
 * [Переход в политический строй](gosudarstvennyi-stroi.md#perekhod-v-politicheskii-stroi)
-* [Политические строи](gosudarstvennyi-stroi.md#firstheading)
+* [Политические строи](gosudarstvennyi-stroi.md#politicheskie-stroi)
 * [Тирания](gosudarstvennyi-stroi.md#tiraniya)
 * [Аристократия](gosudarstvennyi-stroi.md#aristokratiya)
 * [Монархия](gosudarstvennyi-stroi.md#monarkhiya)
