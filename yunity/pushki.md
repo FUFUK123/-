@@ -6,7 +6,7 @@ icon: cannon
 
 ### Описание
 
-Специальный военный юнит, предназначенный для атаки зданий и контрольных блоков [Капитолия](../voennye-sooruzheniya/glavnye-zdaniya/kapitolii.md) и [Ратуши](../voennye-sooruzheniya/glavnye-zdaniya/ratusha.md). Наносит урон игрокам. Урон также получает [<mark style="color:red;">Военный лагерь</mark>](../voennye-sooruzheniya/voennyi-lager.md). В отличие от большинства юнитов, пушки крафтятся вручную и могут быть использованы исключительно во время [<mark style="color:red;">войны</mark>](../upravlenie-gorodom-i-civilizaciei/diplomatiya/voina.md). Орудие пушки можно регулировать по вертикали и горизонтали через специальные таблички.
+Специальный военный юнит, предназначенный для атаки зданий и контрольных блоков [Капитолия](/broken/pages/hLxpc0eMiBq13DYhMzhH) и [Ратуши](/broken/pages/4i88JfMdOLaLgA1RBXvF). Наносит урон игрокам. Урон также получает [<mark style="color:red;">Военный лагерь</mark>](../voennye-sooruzheniya/voennyi-lager.md). В отличие от большинства юнитов, пушки крафтятся вручную и могут быть использованы исключительно во время [<mark style="color:red;">войны</mark>](../upravlenie-gorodom-i-civilizaciei/diplomatiya/voina.md). Орудие пушки можно регулировать по вертикали и горизонтали через специальные таблички.
 
 ***
 
@@ -27,4 +27,3 @@ icon: cannon
 | Требуемая технология                      | **Ковка мечей** |
 
 ***
-
