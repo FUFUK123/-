@@ -36,7 +36,7 @@
   * [Мореплавание](osnovnye-kharakteristiki/obshestvennye-instituty/moreplavanie.md)
   * [Честь](osnovnye-kharakteristiki/obshestvennye-instituty/chest.md)
   * [Рационализм](osnovnye-kharakteristiki/obshestvennye-instituty/racionalizm.md)
-  * [Page 5](osnovnye-kharakteristiki/obshestvennye-instituty/page-5.md)
+  * [Эстетика](osnovnye-kharakteristiki/obshestvennye-instituty/estetika.md)
 * [Молоточки](osnovnye-kharakteristiki/molotochki/README.md)
   * [Постройка зданий](osnovnye-kharakteristiki/molotochki/molotochki.md)
 * [Наука](osnovnye-kharakteristiki/nauka/README.md)
