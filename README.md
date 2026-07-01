@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: square-web-awesome
 cover: .gitbook/assets/image (1).webp
 coverY: 0
