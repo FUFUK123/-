@@ -27,4 +27,4 @@ icon: industry
 
 **Модификации и эффекты:**
 
-* Продукция (на город): +0.5% за каждого жителя ![](<../../.gitbook/assets/image (86).png>)
+* <mark style="color:orange;">Продукция (на город): +0.5%</mark> за каждого жителя ![](<../../.gitbook/assets/image (86).png>)

@@ -21,6 +21,6 @@ icon: flask-round-potion
 
 **Модификации и эффекты:**
 
-* <mark style="color:blue;">Наука за каждого жителя города: +20</mark>
-* <mark style="color:blue;">Наука(на город): 100</mark>&#x20;
+* <mark style="color:blue;">Наука за каждого жителя города: +20</mark>![](<../../.gitbook/assets/image (396).png>)
+* <mark style="color:blue;">Наука(на город): 100</mark> ![](<../../.gitbook/assets/image (397).png>)
 

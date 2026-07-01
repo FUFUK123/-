@@ -27,6 +27,6 @@ icon: houzz
 
 ### Модификации и эффекты
 
-* Продукция (на город): +5%![](<../../.gitbook/assets/image (124).png>)
-* Продукция (на город): +200![](<../../.gitbook/assets/image (126).png>) за ![](<../../.gitbook/assets/image (127).png>)
-* Продукция (на город): +3![](<../../.gitbook/assets/image (125).png>)за каждый чанк реки
+* <mark style="color:orange;">Продукция (на город): +5%</mark>![](<../../.gitbook/assets/image (124).png>)
+* <mark style="color:orange;">Продукция (на город): +200</mark>![](<../../.gitbook/assets/image (126).png>) за ![](<../../.gitbook/assets/image (127).png>)
+* <mark style="color:orange;">Продукция (на город): +3</mark>![](<../../.gitbook/assets/image (125).png>)за каждый чанк реки

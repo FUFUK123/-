@@ -21,5 +21,5 @@ icon: telescope
 
 **Модификации и эффекты:**
 
-* <mark style="color:blue;">Наука: +20%</mark> (на город)
+* <mark style="color:blue;">Наука: +20%</mark>![](<../../.gitbook/assets/image (398).png>) (на город)
 

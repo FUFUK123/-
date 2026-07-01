@@ -33,7 +33,7 @@ _Университет_ - это высшее учебное заведение
 
 ### Модификации и эффекты <a href="#modifikacii_i_effekty" id="modifikacii_i_effekty"></a>
 
-* Наука (на Город): +15 за каждого жителя ![](<../../.gitbook/assets/image (85).png>)
+* <mark style="color:blue;">Наука (на Город): +15</mark> за каждого жителя ![](<../../.gitbook/assets/image (85).png>)
 
 Примечание:
 

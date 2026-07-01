@@ -23,4 +23,4 @@ icon: hotel
 
 ### Модификации и эффекты
 
-* Культура (на город): +300![](<../../.gitbook/assets/image (129).png>)
+* <mark style="color:pink;">Культура (на город): +300</mark>![](<../../.gitbook/assets/image (129).png>)

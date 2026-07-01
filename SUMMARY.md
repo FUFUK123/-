@@ -72,7 +72,6 @@
   * [Добыча денег](osnovnye-kharakteristiki/dengi/dengi.md)
 * [Урожайность](osnovnye-kharakteristiki/urozhainost/README.md)
   * [Население города](osnovnye-kharakteristiki/urozhainost/urozhainost.md)
-* [Очки](osnovnye-kharakteristiki/ochki.md)
 
 ## Управление городом и цивилизацией
 
