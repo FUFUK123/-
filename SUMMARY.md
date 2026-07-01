@@ -28,12 +28,23 @@
 ## Основные характеристики
 
 * [Счастье](osnovnye-kharakteristiki/schaste.md)
+* [Дороги](osnovnye-kharakteristiki/schaste-1.md)
 * [Культура](osnovnye-kharakteristiki/kultura.md)
-* [Молоточки](osnovnye-kharakteristiki/molotochki.md)
+* [Общественные институты](osnovnye-kharakteristiki/obshestvennye-instituty/README.md)
+  * [Традиция](osnovnye-kharakteristiki/obshestvennye-instituty/tradiciya.md)
+  * [Воля](osnovnye-kharakteristiki/obshestvennye-instituty/volya.md)
+  * [Мореплавание](osnovnye-kharakteristiki/obshestvennye-instituty/moreplavanie.md)
+  * [Честь](osnovnye-kharakteristiki/obshestvennye-instituty/chest.md)
+  * [Рационализм](osnovnye-kharakteristiki/obshestvennye-instituty/racionalizm.md)
+  * [Page 5](osnovnye-kharakteristiki/obshestvennye-instituty/page-5.md)
+* [Молоточки](osnovnye-kharakteristiki/molotochki/README.md)
+  * [Постройка зданий](osnovnye-kharakteristiki/molotochki/molotochki.md)
 * [Наука](osnovnye-kharakteristiki/nauka/README.md)
-  * [Древо технологий](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FCx2IA78rN8w2g9TeK8Uh%2Fuploads%2FDlG3O6ptcwZiuUYqgeRo%2F%D0%94%D1%80%D0%B5%D0%B2%D0%BE%205.0.svg?alt=media\&token=0eca0b89-f404-49ce-a042-0f22b342ab5d)
-* [Деньги](osnovnye-kharakteristiki/dengi.md)
-* [Урожайность](osnovnye-kharakteristiki/urozhainost.md)
+  * [Древо технологий](https://civtree.quasarium.net/)
+* [Деньги](osnovnye-kharakteristiki/dengi/README.md)
+  * [Добыча денег](osnovnye-kharakteristiki/dengi/dengi.md)
+* [Урожайность](osnovnye-kharakteristiki/urozhainost/README.md)
+  * [Население города](osnovnye-kharakteristiki/urozhainost/urozhainost.md)
 * [Очки](osnovnye-kharakteristiki/ochki.md)
 
 ## Управление городом и цивилизацией
