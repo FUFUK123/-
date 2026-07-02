@@ -34,7 +34,7 @@ layout:
 
 <a href="https://tree.civng.online/" class="button secondary">Древо технологий</a>
 
-Версия Сервера 1.18.2 IP сервера для подключения : play.civng.online
+**Версия Сервера 1.18.2 IP сервера для подключения : play.civng.online**
 
 ➜ 🗺️ Добро пожаловать на CivCraft — в мир масштабных сражений, великих империй и ожесточённых войн!\
 ➜ 🕹️ CivCraft объединяет лучшие элементы Minecraft и легендарной серии игр Sid Meier's Civilization, создавая уникальный игровой опыт.\
