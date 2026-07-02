@@ -1,9 +1,5 @@
 ---
 icon: globe-stand
-cover: >-
-  https://editions.covecollective.org/sites/default/files/chronology-uploads/Shakespeares-Globe-Theatre2.jpg
-coverY: 0
-coverHeight: 390
 ---
 
 # МКС

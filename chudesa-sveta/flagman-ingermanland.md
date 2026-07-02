@@ -1,9 +1,5 @@
 ---
 icon: landmark
-cover: >-
-  https://www.daillog.ru/upload/resize_cache/iblock/b62/1500_600_2/k28tpgs30ynw38fp8ewykrmp24fx78pc.jpg
-coverY: -44.24600441014801
-coverHeight: 403
 ---
 
 # Парфенон

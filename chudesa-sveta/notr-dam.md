@@ -1,8 +1,5 @@
 ---
 icon: place-of-worship
-cover: https://parisgid.ru/wp-content/uploads/2011/12/Pete-Douglass.jpg
-coverY: 0
-coverHeight: 388
 ---
 
 # Оракул

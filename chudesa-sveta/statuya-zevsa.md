@@ -1,8 +1,5 @@
 ---
 icon: ship-large
-cover: https://nasledie.digital/wp-content/uploads/2022/03/el.gr1_-1536x672.jpg
-coverY: 0
-coverHeight: 396
 ---
 
 # Флагман Ингерманланд

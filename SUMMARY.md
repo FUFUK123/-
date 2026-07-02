@@ -1,7 +1,6 @@
 # Table of contents
 
 * [О сервере](README.md)
-  * [Гайды](o-servere/gaidy.md)
 
 ## Общая информация
 

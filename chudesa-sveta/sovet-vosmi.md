@@ -1,8 +1,5 @@
 ---
 icon: cactus
-cover: https://cn15.nevsedoma.com.ua/photo/15/1580/141_files/2341600-original.jpg
-coverY: 0
-coverHeight: 378
 ---
 
 # Петра

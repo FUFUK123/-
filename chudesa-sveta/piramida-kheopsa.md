@@ -1,8 +1,5 @@
 ---
 icon: landmark-dome
-cover: https://nasledie.digital/wp-content/uploads/2022/03/oboi7.com1_-1536x512.jpg
-coverY: 0
-coverHeight: 392
 ---
 
 # ООН

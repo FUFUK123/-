@@ -1,9 +1,5 @@
 ---
 icon: mosque
-cover: >-
-  https://www.ekskursiivmeksike.ru/wp-content/uploads/2014/02/%D0%A7%D0%B8%D1%87%D0%B5%D0%BD-%D0%98%D1%86%D0%B0.-%D0%9E%D1%82%D0%B7%D1%8B%D0%B2.jpg
-coverY: 39.1685744724256
-coverHeight: 367
 ---
 
 # Тадж-Махал

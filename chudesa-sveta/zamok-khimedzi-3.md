@@ -1,8 +1,5 @@
 ---
 icon: squareapore-dollar
-cover: https://ethnomir.ru/upload/medialibrary/924/khimedzi_zamok_krasavets.jpg
-coverY: -68.35640748251808
-coverHeight: 428
 ---
 
 # Всемирный банк

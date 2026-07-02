@@ -1,9 +1,5 @@
 ---
 icon: images
-cover: >-
-  https://fiorino-travel.by/uploads/posts/2017-08/1503922020_kolizey-kak-sedmoe-chudo-sveta.jpg
-coverY: -15.478840356325227
-coverHeight: 383
 ---
 
 # Галерея Уффици

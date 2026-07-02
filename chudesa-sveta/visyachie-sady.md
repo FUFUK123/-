@@ -1,8 +1,5 @@
 ---
 icon: clock
-cover: https://www.orangesmile.com/extreme/img/main/hanging-gardens-amitis_1.jpg
-coverY: 30.838166516717084
-coverHeight: 414
 ---
 
 # Биг Бен

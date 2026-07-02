@@ -1,8 +1,5 @@
 ---
 icon: tower-cell
-cover: ../.gitbook/assets/Neuschwanstein-Castle.jpg
-coverY: -49.51678491284539
-coverHeight: 377
 ---
 
 # Токийская Телебашня

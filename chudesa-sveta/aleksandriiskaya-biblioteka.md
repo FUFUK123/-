@@ -1,8 +1,5 @@
 ---
 icon: book
-cover: ../.gitbook/assets/Александрийская библиотека.webp
-coverY: 0
-coverHeight: 407
 ---
 
 # Александрийская библиотека

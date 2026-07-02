@@ -1,8 +1,5 @@
 ---
 icon: lighthouse
-cover: ../.gitbook/assets/маяк.webp
-coverY: -3.294661833531542
-coverHeight: 424
 ---
 
 # Александрийский маяк
