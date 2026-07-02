@@ -66,7 +66,7 @@
 * [Молоточки](osnovnye-kharakteristiki/molotochki/README.md)
   * [Постройка зданий](osnovnye-kharakteristiki/molotochki/molotochki.md)
 * [Наука](osnovnye-kharakteristiki/nauka/README.md)
-  * [Древо технологий](https://civtree.quasarium.net/)
+  * [Древо технологий](https://tree.civng.online/)
 * [Деньги](osnovnye-kharakteristiki/dengi/README.md)
   * [Добыча денег](osnovnye-kharakteristiki/dengi/dengi.md)
 * [Урожайность](osnovnye-kharakteristiki/urozhainost/README.md)
