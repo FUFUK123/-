@@ -94,3 +94,5 @@ _Культура_ - один из ключевых ресурсов вашей 
 | Каменистый берег         | 2         | 0.25  | 0.75 | 0.02    |
 | Ветреные гравийные холмы | 3.5       | 0.25  | 0.25 | 0.03    |
 | Неизвестный биом         | 1.25      | 1.25  | 1.25 | 0.03    |
+
+[https://airtable.com/app1yafLu59xziTxg/shrqpM4m69je9pQyh/embed](https://airtable.com/app1yafLu59xziTxg/shrqpM4m69je9pQyh/embed)
