@@ -30,7 +30,7 @@ layout:
 
 **Основная информация:**
 
-<a href="http://server-x.space:25711/" class="button secondary">Карта сервера</a>
+<a href="https://map.civng.online/" class="button secondary">Карта сервера</a>
 
 <a href="https://tree.civng.online/" class="button secondary">Древо технологий</a>
 
