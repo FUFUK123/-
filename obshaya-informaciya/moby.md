@@ -24,9 +24,9 @@ icon: sword
 \
 **Зомби**
 
-**Примечание: При ударе&#x20;**<mark style="color:$success;">**Lesser yobo ,**</mark>**&#x20;**<mark style="color:$warning;">**Greater yobo**</mark><mark style="color:$success;">**,**</mark>**&#x20;**<mark style="color:pink;">**Elite yobo**</mark><mark style="color:$success;">**,**</mark>**&#x20;**<mark style="color:red;">**Brutal yobo**</mark>**&#x20;появляется 5&#x20;**<mark style="color:$success;">**Lesser angry yobo,**</mark>**&#x20;**<mark style="color:$warning;">**Greater angry yobo,**</mark>**&#x20;**<mark style="color:pink;">**Elite angry yobo,**</mark>**&#x20;**<mark style="color:red;">**Brutal angry yobo.**</mark>
+**Примечание: При ударе** <mark style="color:$success;">Т1 Зомби</mark> <mark style="color:$success;"></mark><mark style="color:$success;">**,**</mark> <mark style="color:$warning;">Т2 Зомби</mark><mark style="color:$success;">**,**</mark> <mark style="color:pink;">Т3 Зомби</mark><mark style="color:$success;">**,**</mark><mark style="color:red;">Т4 Зомби</mark> **появляется 5** <mark style="color:$success;">Т1 Маленький Зомби</mark><mark style="color:$success;">**,**</mark> <mark style="color:$warning;">Т2 Маленький Зомби</mark><mark style="color:$warning;">**,**</mark> <mark style="color:pink;">Т3 Маленький Зомби</mark><mark style="color:pink;">**,**</mark> <mark style="color:red;">Т4 Маленький Зомби</mark><mark style="color:red;">**.**</mark>
 
-<mark style="color:$success;">**Lesser yobo**</mark>**&#x20;**<mark style="color:$info;">**(**</mark>PLAINS)
+<mark style="color:$success;">**Т1 Зомби**</mark>**&#x20;**<mark style="color:$info;">**(**</mark>PLAINS)
 
 Урон - 8, хп - 30, броня - 2
 
@@ -40,7 +40,7 @@ icon: sword
 | Т0 Меркурий              | 1%               |
 | Т1 Меркурий              | 0.2%             |
 
-<mark style="color:$success;">**Lesser angry yobo**</mark>
+<mark style="color:$success;">**Т1 Маленький Зомби**</mark>
 
 Урон - 6, хп - 20, броня - 2
 
@@ -54,7 +54,7 @@ icon: sword
 | Т0 Меркурий              | 1%               |
 
 \
-<mark style="color:$warning;">**Greater yobo**</mark>
+&#x20;<mark style="color:$warning;">**Т2 Зомби**</mark>
 
 Урон - 18, хп - 30, броня - 8
 
@@ -68,7 +68,7 @@ icon: sword
 | Т1 Меркурий        | 1%                 |
 | Т2 Меркурий        | 0.2%               |
 
-<mark style="color:$warning;">**Greater\_angry\_yobo**</mark>**&#x20;(**&#x53;UNFLOWER\_PLAINS , DARK\_FOREST)
+<mark style="color:$warning;">**Т2 Маленький Зомби**</mark>**&#x20;(**&#x53;UNFLOWER\_PLAINS , DARK\_FOREST)
 
 Урон - 16, хп - 20, броня - 8
 
@@ -82,7 +82,7 @@ icon: sword
 | Т1 Меркурий        | 1%                 |
 
 \
-<mark style="color:pink;">**Elite yobo**</mark>**&#x20;(**&#x47;ROVE, MEADOW)
+<mark style="color:pink;">**Т3 Зомби**</mark>**&#x20;(**&#x47;ROVE, MEADOW)
 
 Урон - 24, хп - 30, броня - 14
 
@@ -98,7 +98,7 @@ icon: sword
 | Т3 Меркурий         | 0.2%               |
 
 \
-<mark style="color:pink;">**Elite angry yobo**</mark>
+<mark style="color:pink;">**Т3 Маленький Зомби**</mark>
 
 Урон - 24, хп - 20, броня - 14
 
@@ -113,7 +113,7 @@ icon: sword
 | Т2 Меркурий         | 1%                 |
 
 \
-<mark style="color:red;">**Brutal  yobo**</mark>**&#x20;(**&#x53;TONY\_PEAKS,JAGGED\_PEAKS)
+<mark style="color:red;">**Т4 Зомби**</mark>**&#x20;(**&#x53;TONY\_PEAKS,JAGGED\_PEAKS)
 
 Урон - 32, хп - 30, броня - 22
 
@@ -130,7 +130,7 @@ icon: sword
 | Т4 Меркурий                  | 0.1%               |
 
 \
-<mark style="color:red;">**Brutal angry yobo**</mark>
+<mark style="color:red;">**Т4 Маленький Зомби**</mark>
 
 Урон - 32, хп - 20, броня - 22
 
@@ -147,7 +147,7 @@ icon: sword
 
 #### Кадавр <a href="#savage" id="savage"></a>
 
-<mark style="color:$success;">**Lesser  Savage**</mark>**&#x20;(**&#x44;ESERT,SAVANNA)
+<mark style="color:$success;">**Т1 пустынный зомби**</mark>**&#x20;(**&#x44;ESERT,SAVANNA)
 
 Урон - 8, хп - 30, броня - 2
 
@@ -161,7 +161,7 @@ icon: sword
 | Т0 Меркурий           | 1%                 |
 | Т1 Меркурий           | 0.2%               |
 
-<mark style="color:$success;">**Lesser angry Savage**</mark>
+<mark style="color:$success;">**Т1 маленький пустынный зомби**</mark>
 
 Урон - 6, хп - 20, броня - 2
 
@@ -175,7 +175,7 @@ icon: sword
 | Т0 Меркурий           | 1%                 |
 
 \
-<mark style="color:$warning;">**Greater savage**</mark>**&#x20;(**&#x57;INDSWEPT\_SAVANNA, SAVANNA\_PLATEAU)
+<mark style="color:$warning;">**Т2 пустынный зомби**</mark>**&#x20;(**&#x57;INDSWEPT\_SAVANNA, SAVANNA\_PLATEAU)
 
 Урон - 18, хп - 30, броня - 8
 
@@ -189,8 +189,7 @@ icon: sword
 | Т1 Меркурий        | 1%                 |
 | Т2 Меркурий        | 0.2%               |
 
-\
-<mark style="color:$warning;">**Greater angry savage**</mark>
+<mark style="color:$warning;">**Т2 маленький пустынный зомби**</mark>
 
 Урон - 16, хп - 20, броня - 8
 
@@ -204,7 +203,7 @@ icon: sword
 | Т1 Меркурий        | 1%                 |
 
 \
-<mark style="color:pink;">**Elite  savage**</mark>**&#x20;(**&#x42;ADLANDS)
+<mark style="color:pink;">**Т3 пустынный зомби**</mark>**&#x20;(**&#x42;ADLANDS)
 
 Урон - 26, хп - 30, броня - 14
 
@@ -219,7 +218,7 @@ icon: sword
 | Т2 Меркурий         | 1%                 |
 | Т3 Меркукрий        | 0.2%               |
 
-<mark style="color:pink;">**Elite angry savage**</mark>
+<mark style="color:pink;">**Т3 маленький пустынный зомби**</mark>
 
 Урон - 24, хп - 20, броня - 14
 
@@ -234,7 +233,7 @@ icon: sword
 | Т2 Меркурий         | 1%                 |
 
 \
-<mark style="color:red;">**Brutal savage**</mark>**&#x20;(**&#x45;RODED\_BADLANDS,WOODED\_BADLANDS)
+<mark style="color:red;">**Т4 пустынный зомби**</mark>**&#x20;(**&#x45;RODED\_BADLANDS,WOODED\_BADLANDS)
 
 Урон - 32, хп - 30, броня - 20
 
@@ -251,7 +250,7 @@ icon: sword
 | Т4 Меркурий                  | 0.1%               |
 
 \
-<mark style="color:red;">**Brutal\_angry\_savage**</mark>
+<mark style="color:red;">**Т4 маленький пустынный зомби**</mark>
 
 Урон - 32, хп - 20, броня - 22
 
@@ -268,7 +267,7 @@ icon: sword
 
 #### Голем <a href="#ruffian" id="ruffian"></a>
 
-<mark style="color:$success;">**Lesser behemoth**</mark> <mark style="color:$success;"></mark><mark style="color:$success;">(</mark>SNOWY\_PLAINS,SNOWY\_BEACH)
+<mark style="color:$success;">**Т1 голем**</mark> <mark style="color:$success;"></mark><mark style="color:$success;">(</mark>SNOWY\_PLAINS,SNOWY\_BEACH)
 
 Урон - 12, хп - 30, броня - 4
 
@@ -287,7 +286,7 @@ icon: sword
 | Т1 Меркурий           | 1%                 |
 
 \
-<mark style="color:$warning;">**Greater behemoth**</mark>**&#x20;(**&#x53;NOWY\_TAIGA, FROZEN\_RIVER)
+<mark style="color:$warning;">**Т2 голем**</mark>**&#x20;(**&#x53;NOWY\_TAIGA, FROZEN\_RIVER)
 
 Урон - 18, хп - 30, броня - 12
 
@@ -306,7 +305,7 @@ icon: sword
 | Т2 Меркурий        | 1%                 |
 
 \
-<mark style="color:pink;">**Elite behemoth**</mark>**&#x20;(**&#x53;NOWY\_SLOPES)
+<mark style="color:pink;">**Т3 голем**</mark> **(**&#x53;NOWY\_SLOPES)
 
 Урон - 26, хп - 40, броня - 16
 
@@ -324,7 +323,7 @@ icon: sword
 | Т2 Меркурий         | 1%                 |
 | Т3 Меркурий         | 1%                 |
 
-<mark style="color:red;">**Brutal behemoth**</mark>**&#x20;(**&#x49;CE\_SPIKES ,FROZEN\_PEAKS)
+<mark style="color:red;">**Т4 голем**</mark> **(**&#x49;CE\_SPIKES ,FROZEN\_PEAKS)
 
 Урон - 32, хп - 50, броня - 24
 
@@ -344,7 +343,7 @@ icon: sword
 
 #### Волки <a href="#begemoth" id="begemoth"></a>
 
-<mark style="color:$success;">Lesser Jackal</mark> (FOREST,BIRCH\_FOREST)
+<mark style="color:$success;">**Т1 волк**</mark> (FOREST,BIRCH\_FOREST)
 
 Урон - 8, хп - 20, броня - 2
 
@@ -360,7 +359,7 @@ icon: sword
 | Т1 Меркурий          | 1%                 |
 
 \
-<mark style="color:$warning;">Greater jackal</mark> (FLOWER\_FOREST,OLD\_GROWTH\_BIRCH\_FOREST)
+<mark style="color:$warning;">**Т2 волк**</mark> (FLOWER\_FOREST,OLD\_GROWTH\_BIRCH\_FOREST)
 
 Урон - 16, хп - 20, броня - 8
 
@@ -377,7 +376,7 @@ icon: sword
 | Т2 Меркурий        | 2%                 |
 
 \
-<mark style="color:pink;">**Elite Jackal**</mark>**&#x20;(**&#x54;AIGA ,OLD\_GROWTH\_PINE\_TAIGA)
+<mark style="color:pink;">**Т3 волк**</mark> **(**&#x54;AIGA ,OLD\_GROWTH\_PINE\_TAIGA)
 
 Урон - 24, хп - 20, броня - 14
 
@@ -394,7 +393,7 @@ icon: sword
 | Т3 Меркурий       | 1%                 |
 
 \
-<mark style="color:red;">**Brutal Jackal**</mark>**&#x20;(**&#x4F;LD\_GROWTH\_SPRUCE\_TAIGA,WINDSWEPT\_FOREST)
+<mark style="color:red;">**Т4 волк**</mark>**&#x20;(**&#x4F;LD\_GROWTH\_SPRUCE\_TAIGA,WINDSWEPT\_FOREST)
 
 Урон - 32, хп - 20, броня - 22
 
@@ -413,7 +412,7 @@ icon: sword
 
 
 \
-<mark style="color:$success;">Lesser Sniper</mark> **(**&#x4A;UNGLE)
+<mark style="color:$success;">**Т1 снайпер**</mark> **(**&#x4A;UNGLE)
 
 Урон - 32, хп - 20, броня - 22
 
@@ -431,7 +430,7 @@ icon: sword
 | Т1 Меркурий              | 1%                 |
 
 \
-<mark style="color:$warning;">Greater Sniper</mark>**(**&#x4A;UNGLE ,WINDSWEPT\_HILLS)
+<mark style="color:$warning;">**Т2 снайпер**</mark> **(**&#x4A;UNGLE ,WINDSWEPT\_HILLS)
 
 Урон - 16, хп - 30, броня - 8
 
@@ -449,7 +448,7 @@ icon: sword
 | Т1 Меркурий           | 1%                 |
 
 \
-<mark style="color:pink;">Elite Sniper</mark>**(**&#x42;AMBOO\_JUNGLE,WINDSWEPT\_GRAVELLY\_HILLS)
+<mark style="color:pink;">**Т3 снайпер**</mark> **(**&#x42;AMBOO\_JUNGLE,WINDSWEPT\_GRAVELLY\_HILLS)
 
 Урон - 24, хп - 30, броня - 14
 
@@ -467,7 +466,7 @@ icon: sword
 | Т3 Меркурий           | 1%                 |
 
 \
-<mark style="color:red;">**Brutal Sniper**</mark>**(**&#x53;PARSE\_JUNGLE)
+<mark style="color:red;">**Т4 снайпер**</mark> **(**&#x53;PARSE\_JUNGLE)
 
 Урон - 32, хп - 30, броня - 22
 
