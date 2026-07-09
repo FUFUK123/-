@@ -50,6 +50,7 @@
 * [Данж](obshaya-informaciya/danzh.md)
 * [Донат](obshaya-informaciya/donat.md)
 * [Работы](obshaya-informaciya/raboty.md)
+* [Как работают проценты на сервере.](obshaya-informaciya/kak-rabotayut-procenty-na-servere..md)
 
 ## Основные характеристики
 
