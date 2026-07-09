@@ -6,7 +6,7 @@ icon: microchip
 
 #### **Какие проценты существуют на сервере.**
 
-Прописав команду /t info hammers,beakers,coins,happiness,growth,culture,politicals у вас в чате появляется такая таблица в чате:
+Прописав команду /t info hammers,beakers,coins,happiness,growth,culture,politicals у вас в чате появляется такая таблица:
 
 <figure><img src="../.gitbook/assets/image (728).png" alt=""><figcaption></figcaption></figure>
 
