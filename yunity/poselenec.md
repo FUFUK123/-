@@ -16,6 +16,8 @@ icon: flag
 
 ### Основание города <a href="#osnovanie_goroda" id="osnovanie_goroda"></a>
 
+**Для того что бы создать Поселенца необходимо изучить технологию Обработка Бронзы.**
+
 * Заказать и взять юнит Поселенец в [Казармы](../osnovnye-sooruzheniya/drevnii-mir/baraki.md).
 * Уйти с должности мэра/помощника в другом городе (<mark style="color:$warning;">/t leavegroup</mark>).
 
