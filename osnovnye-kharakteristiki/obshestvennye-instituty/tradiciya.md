@@ -27,8 +27,8 @@ layout:
 
 **Уровень 1:**
 
-* <mark style="color:red;">Несчастье (на Город): -0.5</mark>![](<../../.gitbook/assets/image (217).png>) до 8 городов
-* <mark style="color:red;">Несчастье (на Город): +2</mark>![](<../../.gitbook/assets/image (218).png>) более 8 городов
+* <mark style="color:red;">Несчастье (за Город): -0.5</mark>![](<../../.gitbook/assets/image (217).png>) до 8 городов (при 8 городах <mark style="color:red;">-4 несчастья</mark>)
+* <mark style="color:red;">Несчастье (за Город): +2</mark>![](<../../.gitbook/assets/image (218).png>) более 8 городов
 * <mark style="color:orange;">Стоимость поселенца: +10%</mark>![](<../../.gitbook/assets/image (198).png>)
 * <mark style="color:$info;">Лимит Монументов: +1</mark>
 * <mark style="color:$success;">Пища в столицу: +100</mark>![](<../../.gitbook/assets/image (209).png>)
