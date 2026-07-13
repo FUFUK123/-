@@ -22,4 +22,4 @@ icon: toothbrush
 **Модификации и эффекты:**
 
 * <mark style="color:$success;">Пища (на город): +200</mark>![](<../../.gitbook/assets/image (28).png>)
-* Стоимость следующего жителя: -0.5%![](<../../.gitbook/assets/image (29).png>)
+* Стоимость следующего жителя: -25%![](<../../.gitbook/assets/image (29).png>)
