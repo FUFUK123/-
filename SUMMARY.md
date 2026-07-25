@@ -1,6 +1,9 @@
 # Table of contents
 
 * [О сервере](README.md)
+  * [Победители](readme/pobediteli.md)
+  * [Новости обновлений](readme/novosti-obnovlenii/README.md)
+    * [Page 1](readme/novosti-obnovlenii/page-1.md)
 
 ## Общая информация
 
